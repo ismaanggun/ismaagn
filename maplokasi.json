@@ -1,0 +1,753 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "GSP UGM",
+          "waktu": "21 Juni 2024",
+          "alamat": "Universitas Gadjah Mada, Jl. Sosio Humaniora No.1, Karang Malang, Catur Tunggal, Kec. Depok, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/GSP%20UGM.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37790072510336,
+            -7.770095061886508
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Bakso Pajero",
+          "waktu": "7 Juli 2024",
+          "alamat": "Jl. Colombo, Karang Malang, Catur Tunggal Kec. Depok, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Bakso%20pajero%20colombo.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38486187461797,
+            -7.7767980372713055
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Balairung UGM",
+          "waktu": "25 JUni 2024",
+          "alamat": "69JH+WCM, Karang Malang, Caturtunggal, Kec.Depok,Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Balairung%20ugm.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37852900078832,
+            -7.767701779527968
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "jln bandara YIA",
+          "waktu": "26 November 2024",
+          "alamat": "Palihan, Kec. Temon, Kab. Kulon Progo, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Bandara%20YIA.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.05834827371461,
+            -7.900278530164954
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Bukit Klangon",
+          "waktu ": "11 Mei 2024",
+          "alamat": "Kalitengah Lor, Glagaharjo, Kec. Cangkringan, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Bukit%20klangon_.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.45478627382005,
+            -7.576900415702966
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Bukit Paralayang Watugupit",
+          "waktu": "7 Februari 2025",
+          "alamat": "X8FW+9HH, Jl.Watugupi Jl.Paralayang, Giricahyo, Kec. Purwosari, Kab. Gunung Kidul, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Bukit%20paralayang.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.34579948575504,
+            -8.026815713894663
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "tugu onde onde",
+          "waktu": "26 Januari 2025",
+          "alamat": "M9GG+R48,Rd, Dusun 3, Tangkisan, Kec. Mrebet, Kab. Purbalingga, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Desa%20tangkisan%20PBG.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            109.37535277841033,
+            -7.3228491826321545
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Taman Fishum UIN SUKA",
+          "waktu": "2 April 2024",
+          "alamat": "698V+475, Uin Sunan Kalijaga Yogyakarta, Papringan, Caturtunggal, Kec. Depok, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Fakultas%20fisum%20UIN%20SUKA.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.39308097215206,
+            -7.784434442718592
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Gardu Pandang Gunung Mlaang, Purbalingga",
+          "waktu": "21 Mei 2023",
+          "alamat": "Gardu Pandang, Gerdu, Serang, Kec. Karangreja, Kab. Purbalingga, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Gardu%20pandang.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            109.26780740015516,
+            -7.236174729141453
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Gedung DTK",
+          "waktu": "16 Desember 2023",
+          "alamat": "Gedung Perpustakaan SV UGM, Sekip Unit 5, Blimbingsari, Caturtunggal, Kec. Depok, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Gedung%20perpus%20vokasi_DTK.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37442293320942,
+            -7.774780229513922
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Hall Malhikdua",
+          "waktu": "31 Mei 2023",
+          "alamat": "Q2HQ+97V, Benda Dua, Benda, Kec. Sirampog, Brebes, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Gedung%20vokasi%20MALHIKDUA.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            109.03810137968776,
+            -7.221467714863039
+          ],
+          "type": "Point"
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Braling Grand Hotel",
+          "waktu": "17 Mei 2023",
+          "alamat": "Jl. Letjen S Parman No.50, Kedung Menjangan, Kec. Purbalingga, Purbalingga, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Hotel%20braling%20PBG.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            109.37518571721927,
+            -7.399156240596653
+          ],
+          "type": "Point"
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "KKV Jogja City Mall",
+          "waktu": "24 April 2024",
+          "alamat": "Jl. Magelang No.6, Kutu Patran, Sinduadi, Kec. Melati, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Kkv%20jcm.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36052250463382,
+            -7.75342561688764
+          ],
+          "type": "Point"
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Warung Kopi Klotok",
+          "waktu": "6 November 2024",
+          "alamat": "Jalan Kaliurang No. KM16, Area Sawah, Pakembinangun, Kec.Pakem, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Kopi%20klothok.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.42126005356545,
+            -7.670397445294839
+          ],
+          "type": "Point"
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Patung Nyi Ageng Serang",
+          "waktu ": "9 Juli 2023",
+          "alamat": "Jl. Gadingan, Gadingan, Wates, Kec. Wates, Kulon Progo, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Kulon%20progo.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.15666860236149,
+            -7.86543281671392
+          ],
+          "type": "Point"
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Taman Denggung Alun Alun Sleman",
+          "waktu": "14 Oktober 2023",
+          "alamat": "Jaban, Tridadi, Kec. Sleman, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Lapangan%20denggung.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36087435981244,
+            -7.721895231213523
+          ],
+          "type": "Point"
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Lapangan Sara Jaya Kradenan",
+          "waktu": "10 April 2024",
+          "alamat": "M9HC+64M depan balai, Dusun 2, Kradenan, Kec. Mrebet, Purbalingga, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Lapangan%20desa%20Kradenan.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            109.37033888133834,
+            -7.321981814166833
+          ],
+          "type": "Point"
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Ledok Sambi",
+          "waktu": "6 November 2024",
+          "alamat": "Jl. Kaliurang No.KM. 19, Area Sawah, Pakembinangun, Kec. Pakem, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Ledok%20sambi.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.42830073634434,
+            -7.647214980085266
+          ],
+          "type": "Point"
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "MA Alhikmah2 Benda",
+          "waktu": "5 Februari 2025",
+          "alamat": "Ponpes Alhikmah 2 Benda, Benda Dua, Benda, Kec. Sirampog, Brebes, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/MA%20Al%20hikmah%202.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            109.0374355356048,
+            -7.221888803102601
+          ],
+          "type": "Point"
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Maestro Parfum Kutu Asem",
+          "waktu": "19 November 2023",
+          "alamat": "Kutu Asem, Sinduadi, Kec. Mlati, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Maestro%20parfum.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36168691067081,
+            -7.761391985803385
+          ],
+          "type": "Point"
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Makam Aulia Gunung Pring",
+          "waktu": "11 Maret 2024",
+          "alamat": "Gunungpring RT 02/RW 24, Karaharjan, Gunungpring, Kec. Muntilan, Magelang, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Makam%20aulia%20Gunung%20pring.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.2758026852722,
+            -7.593834697959693
+          ],
+          "type": "Point"
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Suryadinata Exclusive Batik",
+          "waktu": "20 Februari 2025",
+          "alamat": "Jl. Malioboro No.171, Sosromenduran, Gedong Tangen, Kota Yogyakarta, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Malioboro.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36594392331529,
+            -7.790895491494197
+          ],
+          "type": "Point"
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Masjid Kampus UGM",
+          "waktu": "18 Agustus 2023",
+          "alamat": "Jl. Tevesia Bulaksumur No.1, Karang Malang, Caturtunggal, Kec Depok, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Masjid%20kampus%20ugm.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38002257169836,
+            -7.773380122817855
+          ],
+          "type": "Point"
+        },
+        "id": 22
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Mc Donald's",
+          "waktu": "10 Oktober 2023",
+          "alamat": "Jl. Magelang KM 6.3, Mlati Dukuh, Sendangadi, Kec. Mlati, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Mcd%20jombor.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36183256167459,
+            -7.748629128320587
+          ],
+          "type": "Point"
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Mini Soccer",
+          "waktu": "19 Juni 2024",
+          "alamat": "Gg. Jargem RT02/RW38, Nandan, Sariharjo, Kec. Ngaglik, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Mini%20soccer%20monjali.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36947731809062,
+            -7.751990751995379
+          ],
+          "type": "Point"
+        },
+        "id": 24
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Monumen Jogja Kembali",
+          "waktu": "11 Juli 2024",
+          "alamat": "Jl. Ringroad utara, Jongkang, Sariharjo, Kec. Ngaglik, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Monumen%20jogja%20kembali.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.3696457746604,
+            -7.749620359956467
+          ],
+          "type": "Point"
+        },
+        "id": 25
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Masjid Annur Alhikmah 2",
+          "waktu": "3 Februari 2025",
+          "alamat": "Q2HQ+G39, Benda Dua, Benda, Kec. Sirampog, Brebes, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Masjid%20annur%20alhikmah2.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            109.0379127067136,
+            -7.221243440035693
+          ],
+          "type": "Point"
+        },
+        "id": 26
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Mixue Bobotsari",
+          "waktu": "26 Juni 2023",
+          "alamat": "Jl. Rs. Yosomiharjo, Dusun 3, Bobotsari, Kec. Bobotsari, Purbalingga, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Mixue%20bobotsari.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            109.36406869552474,
+            -7.303943625611197
+          ],
+          "type": "Point"
+        },
+        "id": 27
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Mushola Al Mutaqien",
+          "waktu": "10 April 2024",
+          "alamat": "Unnamed Road, Dusun 3, Kradenan, Kec. Mrebet, Purbalingga, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Mushola%20al%20mutaqien%20Kradenan.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            109.37353921538687,
+            -7.3205042074666835
+          ],
+          "type": "Point"
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Nawang Jagad",
+          "waktu": "28 Desember 2023",
+          "alamat": "Jl. Nawangjagad, Kaliurang, Hargobinangun, Kec. Pakem, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Nawang%20jagad.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.42198849936858,
+            -7.597244184956125
+          ],
+          "type": "Point"
+        },
+        "id": 29
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Pakuwon Mall Jogja",
+          "waktu": "14 Februari 2024",
+          "alamat": "JL. Ringroad Utara, Kaliwaru, Condongcatur, Kec. Depok, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Pakuwon%20mall.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.3989235781039,
+            -7.75989763804364
+          ],
+          "type": "Point"
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Pantai Baros",
+          "waktu": "30 Juli 2024",
+          "alamat": "X7RM+Q7P, Pantai, Tirtohargo, Kec. Kretek, Kab. Bantul, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Pantai%20baros.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.28206512414022,
+            -8.008946265274147
+          ],
+          "type": "Point"
+        },
+        "id": 31
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Pantai Jetis",
+          "waktu": "24 Mei 2024",
+          "alamat": "Jetis, Kec. Nusawungu, Cilacap, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Pantai%20jetis.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            109.3884844445036,
+            -7.72354650231226
+          ],
+          "type": "Point"
+        },
+        "id": 32
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Pantai Wediombo",
+          "waktu": "20 April 2024",
+          "alamat": "Pendowo, Jepitu, Kec. Girisubo, Kab. Gunung Kidul, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Pantai%20wedi%20ombo.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.71032538379552,
+            -8.187335036625456
+          ],
+          "type": "Point"
+        },
+        "id": 33
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Pantai Sidayu",
+          "waktu": "3 Mei 2023",
+          "alamat": "Sidayu, Binangun, Cilacap Regency, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Pantai%20wp.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            109.25785165275636,
+            -7.698201629903096
+          ],
+          "type": "Point"
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Pasar Bobotsari",
+          "waktu": "14 Mei 2023",
+          "alamat": "Dusun 4, Bobotsari, Kec. Bobotsari, Kab. Purbalingga, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Pasar%20pagi%20bobotsari.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            109.36806220438541,
+            -7.307290345610539
+          ],
+          "type": "Point"
+        },
+        "id": 35
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Pompes Inayatullah",
+          "waktu": "4 November 2024",
+          "alamat": "Jl. Monjali No.20, RT.1/RW.38, Nandan, Sariharjo, Kec. Ngaglik, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Ponpes%20Inayatullah%20Monjali.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.3699410858369,
+            -7.752802135185888
+          ],
+          "type": "Point"
+        },
+        "id": 36
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Sleman City Hall",
+          "waktu": "9 September 2023",
+          "alamat": "Jl. Magelang Jl. Gito Gati No.KM 9, Denggung, Tridadi, Kec. Sleman, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/SCH.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36200324286074,
+            -7.7205208912629075
+          ],
+          "type": "Point"
+        },
+        "id": 37
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Sugoi Ramen Express",
+          "waktu": "21 November 3023",
+          "alamat": "Ruko Kelapa Hijau No.18, Sanggrahan, Condongcatur, Kec. Depok, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Sugoi%20Ramen.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.39647840351802,
+            -7.755623424543543
+          ],
+          "type": "Point"
+        },
+        "id": 38
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "TILC UGM",
+          "waktu": "24 November 2023",
+          "alamat": "Jl. Blimbingsari No.37, Blimbingsari, Caturtunggal, Kec. Depok, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/TILC_.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37255136692767,
+            -7.773764689659416
+          ],
+          "type": "Point"
+        },
+        "id": 39
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "UIN SAIZU Purwokerto",
+          "waktu": "4 Juli 2023",
+          "alamat": "Jl. A.Yani No.40A, Karanganjing, Purwanegara, Kec. Purwokerto Utara, Kab. Banyumas, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/UIN%20SAIZU%20Purwokerto.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            109.23185185618343,
+            -7.411175908554952
+          ],
+          "type": "Point"
+        },
+        "id": 40
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Stasiun Purwokerto",
+          "waktu": "6 Januari 2024",
+          "alamat": "Jl. St., Kober, Kec. Purwokerto Barat, Kab. Banyumas, Jateng",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Stasiun%20Pwt.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            109.22185681203905,
+            -7.419520778097521
+          ],
+          "type": "Point"
+        },
+        "id": 41
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Tlogo Putri",
+          "waktu": "2 Januari 2024",
+          "alamat": "Jl. Tlogo Putri, Kaliurang, Hargobinangun, Kec. Pakem, Sleman, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Tlogo%20putri.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.43218301345047,
+            -7.592916802777083
+          ],
+          "type": "Point"
+        },
+        "id": 42
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama": "Waduk Sermo",
+          "waktu": "23 November 2024",
+          "alamat": "Sermo tengah, Hargowilis, Kec. Kokap, Kab. Kulon Progo, DIY",
+          "jejak saya": "https://github.com/ismaanggun/ismaagn/blob/fd6b3b76006f1b8ee94cb64c36ef288e1a4e168c/Waduk%20sermo.jpg"
+        },
+        "geometry": {
+          "coordinates": [
+            110.12124929962488,
+            -7.820368025279791
+          ],
+          "type": "Point"
+        },
+        "id": 43
+      }
+    ]
+  }
